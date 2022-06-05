@@ -13,4 +13,4 @@ friends turn
 you can setup a shortcut for the above command so you can just click-n-go
 
 # bugs
-none.
+this mod doesn't support the analog sticks or trigger buttons. monopoly plus doesn't use these buttons, so it's not a big deal
